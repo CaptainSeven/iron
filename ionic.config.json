@@ -1,0 +1,7 @@
+{
+  "name": "iron",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
