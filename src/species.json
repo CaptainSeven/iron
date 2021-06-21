@@ -1,0 +1,284 @@
+{
+  "Aleena": {
+    "image": "aleena.jpg"
+  },
+  "Anx": {
+    "image": "anx.jpg"
+  },
+  "Aqualish": {
+    "image": "aqualish.jpg"
+  },
+  "Arcona": {
+    "image": "arcona.jpg"
+  },
+  "Arkanian": {
+    "image": "arkanian.jpg"
+  },
+  "Balosar": {
+    "image": "balosar.jpg"
+  },
+  "Bardottan":{
+    "image": "bardottan.jpg"
+  },
+  "Besalisk": {
+    "image": "besalisk.jpg"
+  },
+  "Bith": {
+    "image": "bith.jpg"
+  },
+  "Bothan": {
+    "image": "bothan.jpg"
+  },
+  "Caamasi": {
+    "image": "caamasi.jpg"
+  },
+  "Cerean": {
+    "image": "cerean.jpg"
+  },
+  "Chadra-Fan": {
+    "image": "chadra-fan.jpg"
+  },
+  "Chagrian": {
+    "image": "chagrian.jpg"
+  },
+  "Chevin": {
+    "image": "chevin.jpg"
+  },
+  "Chiss": {
+    "image": "chiss.jpg"
+  },
+  "Clawdite": {
+    "image": "clawdite.jpg"
+  },
+  "Cosian": {
+    "image": "cosian.jpg"
+  },
+  "Dathomirian": {
+    "image": "dathomirian.jpg"
+  },
+  "Devaronian": {
+    "image": "devaronian.jpg"
+  },
+  "Dowutin": {
+    "image": "dowutin.jpg"
+  },
+  "Drabatan": {
+    "image": "drabatan.jpg"
+  },
+  "Drall": {
+    "image": "drall.jpg"
+  },
+  "Dressellian": {
+    "image": "dressellian.jpg"
+  },
+  "Droid": {
+    "image": "droid.jpg"
+  },
+  "Dug": {
+    "image": "dug.jpg"
+  },
+  "Duros": {
+    "image": "duros.jpg"
+  },
+  "Elom":{
+    "image": "elom.jpg"
+  },
+  "Elomin": {
+    "image": "elomin.jpg"
+  },
+  "Falleen": {
+    "image": "falleen.jpg"
+  },
+  "Gand": {
+    "image": "gand.jpg"
+  },
+  "Gank": {
+    "image": "gank.jpg"
+  },
+  "Geonosian": {
+    "image": "geonosian.jpg"
+  },
+  "Gigoran": {
+    "image": "gigoran.jpg"
+  },
+  "Gossam": {
+    "image": "gossam.jpg"
+  },
+  "Gotal": {
+    "image": "gotal.jpg"
+  },
+  "Gran": {
+    "image": "gran.jpg"
+  },
+  "Gungan": {
+    "image": "gungan.jpg"
+  },
+  "Harch": {
+    "image": "harch.jpg"
+  },
+  "Human": {
+    "image": "human.jpg"
+  },
+  "Human; Clone": {
+    "image": "clone.jpg"
+  },
+  "Human; Corellian": {
+    "image": "corellian-human.jpg"
+  },
+  "Human; Mandalorian": {
+    "image": "mandalorian.jpg"
+  },
+  "Hutt": {
+    "image": "hutt.jpg"
+  },
+  "Iakaru": {
+    "image": "iakaru.jpg"
+  },
+  "Iktotchi": {
+    "image": "iktotchi.jpg"
+  },
+  "Ishi Tib": {
+    "image": "ishi-tib.jpg"
+  },
+  "Ithorian": {
+    "image": "ithorian.jpg"
+  },
+  "Kalleran": {
+    "image": "kalleran.jpg"
+  },
+  "Kaminoan": {
+    "image": "kaminoan.jpg"
+  },
+  "Karkarodon": {
+    "image": "karkarodon.jpg"
+  },
+  "Kel Dor": {
+    "image": "kel-dor.jpg"
+  },
+  "Klatooinian": {
+    "image": "klatooinian.jpg"
+  },
+  "Kubaz": {
+    "image": "kubaz.jpg"
+  },
+  "Kyuzo": {
+    "image": "kyuzo.jpg"
+  },
+  "Lannik": {
+    "image": "lannik.jpg"
+  },
+  "Melitto": {
+    "image": "melitto.jpg"
+  },
+  "Mikkian": {
+    "image": "mikkian.jpg"
+  },
+  "Mirialan": {
+    "image": "mirialan.jpg"
+  },
+  "Mon Calamari": {
+    "image": "mon-calamari.jpg"
+  },
+  "Mustafarian; Northern": {
+    "image": "northern-mustafarian.jpg"
+  },
+  "Mustafarian; Southern": {
+    "image": "southern-mustafarian.jpg"
+  },
+  "Muun": {
+    "image": "muun.jpg"
+  },
+  "Nautolan": {
+    "image": "nautolan.jpg"
+  },
+  "Neimoidian": {
+    "image": "neimoidian.jpg"
+  },
+  "Nikto": {
+    "image": "nikto.jpg"
+  },
+  "Pantoran": {
+    "image": "pantoran.jpg"
+  },
+  "Pau'an": {
+    "image": "pauan.jpg"
+  },
+  "Phydolon": {
+    "image": "phylodon.jpg"
+  },
+  "Polis Massan": {
+    "image": "polis-massan.jpg"
+  },
+  "Quarren": {
+    "image": "quarren.jpg"
+  },
+  "Quermian": {
+    "image": "quermian.jpg"
+  },
+  "Rodian": {
+    "image": "rodian.jpg"
+  },
+  "Sakiyan": {
+    "image": "sakiyan.jpg"
+  },
+  "Sathari": {
+    "image": "sathari.jpg"
+  },
+  "Selonian": {
+    "image": "selonian-male.jpg"
+  },
+  "Shistavanen": {
+    "image": "shistavanen.jpg"
+  },
+  "Skakoan": {
+    "image": "skakoan.jpg"
+  },
+  "Sullustan": {
+    "image": "sullustan.jpg"
+  },
+  "Thisspiasian": {
+    "image": "thisspiasian.jpg"
+  },
+  "Tholothian": {
+    "image": "tholothian.jpg"
+  },
+  "Tognath": {
+    "image": "tognath.jpg"
+  },
+  "Togruta": {
+    "image": "togruta.jpg"
+  },
+  "Toydarian": {
+    "image": "toydarian.jpg"
+  },
+  "Trandoshan": {
+    "image": "trandoshan.jpg"
+  },
+  "Twi-lek": {
+    "image": "twilek.jpg"
+  },
+  "Umbaran": {
+    "image": "umbaran.jpg"
+  },
+  "Verpine": {
+    "image": "verpine.jpg"
+  },
+  "Vurk": {
+    "image": "vurk.jpg"
+  },
+  "Weequay": {
+    "image": "weequay.jpg"
+  },
+  "Whiphid": {
+    "image": "whiphid.jpg"
+  },
+  "Wookiee": {
+    "image": "wookiee.jpg"
+  },
+  "Xexto": {
+    "image": "xexto.jpg"
+  },
+  "Zabrak": {
+    "image": "zabrak.jpg"
+  }
+}
