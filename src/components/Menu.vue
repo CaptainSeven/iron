@@ -33,7 +33,7 @@ export default defineComponent( {
     IonList,
     IonLabel
   },
-  methods:{
+  methods: {
     menuNavigation(url){
       menuController.close("app-menu");
       this.$router.push(url);

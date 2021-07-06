@@ -3,7 +3,8 @@
     <ion-buttons @click="openMenu()" slot="start">
       <ion-menu-button auto-hide="false"></ion-menu-button>
     </ion-buttons>
-    <ion-title>{{ title }}</ion-title>
+    <ion-title slot="secondary">{{ title }}</ion-title>
+    <ion-searchbar v-if="enableSearch" slot="secondary" v-on:ionInput="updateInput"></ion-searchbar>
   </ion-toolbar>
 </template>
 
@@ -20,12 +21,20 @@ export default defineComponent({
     IonToolbar,
   },
   props: {
-    title: String
+    title: String,
+    enableSearch: {
+      type: Boolean,
+      default: false
+    }
   },
+  emits: ['update:modelValue'],
   methods: {
     openMenu() {
       menuController.open("app-menu");
     },
+    updateInput(text: any) {
+      this.$emit('update:modelValue', text.target.value)
+    }
   },
 });
 </script>
