@@ -1,13 +1,20 @@
 <template>
-  <ion-list>
+  <ion-grid v-if="mode === 'grid'">
+    <ion-row>
+      <ion-col v-for="item in speciesList" :key="item" size="3">
+        <ion-img :src="require('../assets/' + species[item].image)"></ion-img>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+  <ion-list v-if="mode === 'list'">
     <ion-item v-for="item in speciesList" :key="item">
-      <ion-img :src="require('../assets/' + species[item].image)"></ion-img>
+      {{ item }}
     </ion-item>
   </ion-list>
 </template>
 
 <script lang="ts">
-import { IonImg, IonItem, IonList } from '@ionic/vue';
+import { IonCol, IonGrid, IonImg, IonItem, IonList, IonRow } from '@ionic/vue';
 import { defineComponent } from 'vue';
 import Fuse from 'fuse.js'
 import species from '../species.json';
@@ -16,13 +23,19 @@ const speciesNames = Object.keys(species);
 const fuseSpecies = new Fuse(speciesNames);
 
 export default defineComponent({
-  name: 'SpeciesCards',
+  name: 'SpeciesList',
   components: {
+    IonCol,
+    IonGrid,
     IonImg,
     IonItem,
     IonList,
+    IonRow
   },
   props: {
+    mode: {
+      default: 'grid'
+    },
     speciesFilter: {
       default: ''
     }
@@ -47,7 +60,4 @@ export default defineComponent({
 </script>
 
 <style scoped>
-ion-item {
-  padding: 32px !important;
-}
 </style>
